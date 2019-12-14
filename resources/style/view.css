@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body {
+    background: radial-gradient(#CFF1FF,#32C3FF);
+    min-height: 100%;
+}
+
+.nav {
+    background: radial-gradient(#CFF1FF,#32C3FF);
+    min-height: 100%;
+    padding: 30px;
+}
+
+
+.nav li {
+
+    font-size: 17px;
+    background: radial-gradient(#6DD4FF, #002eff);
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding: 15px;
+    list-style: none;
+}
+h1 {
+
+    text-align: center;
+}
+
+.group {
+
+    text-align: center;
+    margin: 40px 0 30px 0;
+    border: 2px solid black;
+    border-radius: 40px;
+    font: normal normal 2.2em/1 "Lobster", serif;
+    padding: 5px;
+    color: black;
+    text-shadow: -1px -1px 0 rgba(255, 251, 255, 0.99);
+
+}
+
+.member .first{
+
+
+    border-radius: 40px;
+    text-align: center;
+    margin: 20px 0 20px 0;
+    background: url("../images/Background-5.gif");
+    letter-spacing: 0.19em;
+    font-family: "Tempus Sans ITC";
+    font-weight: bolder;
+    box-shadow: 0 0 17px blue;
+
+}
+
+.member h4{
+
+    color: blue;
+    text-shadow: -1px -1px 0 rgba(44, 47, 245, 0.5);
+    padding: 5px;
+}
+
+.member p{
+
+    text-shadow: -1px -1px 0 rgba(44, 47, 245, 0.5);
+    color: blue;
+
+}
+
+.sir{
+
+    background: url("../images/Background-5.gif");
+    letter-spacing: 0.19em;
+    box-shadow: 0 0 27px blue;
+    border-radius: 40px;
+    text-align: center;
+    margin-bottom:20px;
+    padding: 12px;
+}
+
+.sir h3{
+    color: blue;
+    text-shadow: -1px -1px 0 rgba(44, 47, 245, 0.5);
+    padding: 5px;
+}
+
+.sir h4{
+
+    color: blue;
+    text-shadow: -1px -1px 0 rgba(44, 47, 245, 0.5);
+    padding: 5px;
+}

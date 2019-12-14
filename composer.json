@@ -1,0 +1,15 @@
+{
+
+  "autoload":{
+
+    "psr-4":{
+
+      "App\\":"src\\BITM\\F2S\\"
+    }
+  },"require":{
+
+  "phpmailer/phpmailer":"v5.2.23"
+
+}
+
+}

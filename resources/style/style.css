@@ -1,0 +1,111 @@
+.mainHeading{
+    margin: 3px;
+    height: auto;
+    background-color: whitesmoke;
+    font-size: large;
+    border-bottom: 5px;
+    border-color: #FBFBFB;
+}
+.menuHeading{
+    margin: 3px;
+    background-color: black;
+    font-size: large;
+    border-bottom: 5px;
+    border-color: #FBFBFB;
+}
+.loginButton{
+    margin-top: 35px;
+}
+.userLogin{
+    margin-top: 20px;
+    background-color: honeydew;
+    /*border: 3px solid;*/
+}
+.menuBar{  background-color: #282828;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+    cursor: default;
+}
+.article{
+    opacity: 1;
+    margin: .5em 0em;
+    padding: 1px;
+    display: block;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    float: justify;
+    background-color:#999;
+}
+#article{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.article2
+{
+    margin-bottom: 10px;
+}
+.doctorsProfile{
+    margin-left: 5px;
+    margin-right: 12px;
+}
+.small-box{
+    background-color: #2aabd2; padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 10px; margin-right: 10px; margin-bottom: 15px;
+}
+.small-box2{
+    background-color: coral; padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 10px; margin-right: 10px; margin-bottom: 15px;
+}
+.small-box3{
+    background-color: blueviolet; padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 10px; margin-right: 10px; margin-bottom: 15px;
+}
+.adminBox{
+    background-color: white;
+    border-style: solid;
+    border-bottom-color: #2aabd2;
+    border-left-color: #2aabd2;
+    border-right-color: #2aabd2; ;
+    border-top: none;
+    text-align: center;
+    text-decoration-color: red;
+    padding-right: 15px;
+    padding-left: 15px;"
+}
+.doctorspicture{
+    background-color: palevioletred; padding-bottom:
+        16px;
+}
+
+.mailBox{
+    position:relative;
+    top: -16px;
+    left: 10px;
+    background-color: #d9534f;
+    display: inline;
+    padding: .3em .8em .3em;
+    font-size: 90%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    margin-left: -5px;
+    margin-right: -15px;
+
+
+}

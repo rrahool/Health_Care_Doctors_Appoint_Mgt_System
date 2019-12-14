@@ -1,0 +1,20 @@
+body {
+    background: radial-gradient(#cff1ff, rgba(50, 195, 255, 0.6));
+    min-height: 100%;
+}
+
+th{
+
+    background:navy;
+
+}
+
+td{
+    background: whitesmoke;
+}
+
+
+th{
+    color: whitesmoke;
+    font-weight: bolder;
+}
